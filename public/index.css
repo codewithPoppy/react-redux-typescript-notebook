@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+body>#root>div {
+	height: 100vh;
+}
+
+div,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+span {
+	font-family: 'Montserrat', sans-serif !important;
+}
+
+.MuiListItemIcon-root {
+	min-width: 30px !important;
+}
+
+/* .MuiGrid-root {
+	overflow: auto !important;
+} */
+
+.makeStyles-content-5 {
+	overflow: auto !important;
+}
+.jss5 {
+	overflow: auto !important;
+}
+
+.MuiCardContent-root {
+	padding-top: 1px !important;
+	padding-bottom: 1px !important;
+}
+
+.MuiDrawer-paper {
+	overflow-y: unset!important;
+}
