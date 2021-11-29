@@ -1,7 +1,5 @@
 ##LocalStorage Notebook
 
-Developed By Jorge Torres
-
 How to run:
 
 In the current folder, open the terminal and run these commands:
